@@ -1,6 +1,3 @@
-![art-of-war-view-gif](art-of-war-project (1).gif)
-
-
 # Art-of-war-Project
 
 # USED TECHNOLOGİES
