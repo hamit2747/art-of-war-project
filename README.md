@@ -1,3 +1,5 @@
+![Art-Of-War-GIF](art-of-war-project.gif)
+
 # Art-of-war-Project
 
 # USED TECHNOLOGİES
